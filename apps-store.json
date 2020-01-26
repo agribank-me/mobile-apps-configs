@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "mct",
+            "app_name": "Mã Chuyển Tiền",
+            "app_desc": "Ứng dụng tra cứu Thông tin các ngân hàng VN.",
+            "app_icon": "",
+            "appstore": "https://apps.apple.com/vn/app/m%C3%A3-chuy%E1%BB%83n-ti%E1%BB%81n/id719320530",
+            "playstore": "https://play.google.com/store/apps/details?id=com.appoda.machuyentien"
+        },
+        {
+            "id": "agribankatm",
+            "app_name": "Agribank ATM",
+            "app_desc": "Ứng dụng tìm kiếm máy ATM của Agribank.",
+            "app_icon": "",
+            "appstore": "https://apps.apple.com/vn/app/agriatm/id898639789",
+            "playstore": "https://play.google.com/store/apps/details?id=com.appoda.agribankatm"
+        },
+        {
+            "id": "agriquiz",
+            "app_name": "AgriQuiz",
+            "app_desc": "Ứng dụng trắc nghiệm kiến thức sản phẩm dịch vụ Agribank.",
+            "app_icon": "https://lh3.googleusercontent.com/sMxz6pBevEPA8SRgpU2SK8dn7S7p7oU7do_2HqbfenmP0B-uvd-VtIyN_Dw2BBM3ltI=s180-rw",
+            "appstore": "https://apps.apple.com/vn/app/agriquiz/id1475753871",
+            "playstore": "https://play.google.com/store/apps/details?id=me.agribank.agriquiz"
+        },
+        {
+            "id": "5minutesenglisheveryday",
+            "app_name": "AgriQuiz",
+            "app_desc": "Ứng dụng trắc nghiệm ngữ pháp tiếng Anh.",
+            "app_icon": "",
+            "appstore": "https://apps.apple.com/vn/app/5-minutes-english-everyday/id1195878946",
+            "playstore": ""
+        }
+    ]
+}
